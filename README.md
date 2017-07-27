@@ -1,2 +1,2 @@
 # Logistic_Regression-Simple_NN_Implementation
-A Machine Learning course project dealing with Neural Network and logistic regression
+Machine Learning course projects that deal with Neural Network and logistic regression
